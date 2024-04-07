@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bff5dad6818b9b0488a473f7031b89cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DayStuff: {instanceID: 0}
+  - NightStuff: {instanceID: 0}
+  - PostProsDAY: {instanceID: 0}
+  - PostProsNIGHT: {instanceID: 0}
+  - DaySkyBox: {fileID: 2100000, guid: a96bdea7343e7e14da46095b69802bcf, type: 2}
+  - NightSkyBox: {fileID: 2100000, guid: 6263dfb85cc7c9641bc2d3c909297574, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
